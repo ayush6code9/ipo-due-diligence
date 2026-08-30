@@ -39,3 +39,4 @@ data/*.db
 Thumbs.db
 .venv/
 backend/data/*.db
+frontend/.env.production
