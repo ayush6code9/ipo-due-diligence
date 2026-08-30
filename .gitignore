@@ -38,3 +38,4 @@ data/*.db
 .DS_Store
 Thumbs.db
 .venv/
+backend/data/*.db
